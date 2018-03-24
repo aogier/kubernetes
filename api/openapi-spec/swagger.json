@@ -4389,7 +4389,8 @@
       "200": {
        "description": "OK",
        "schema": {
-        "type": "string"
+        "type": "string",
+        "format": "binary"
        }
       },
       "401": {
